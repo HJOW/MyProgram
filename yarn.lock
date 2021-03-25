@@ -1055,7 +1055,7 @@
   dependencies:
     "ora" "^3.4.0"
 
-"@react-native-community/cli@^5.0.1-alpha.0":
+"@react-native-community/cli@*", "@react-native-community/cli@^5.0.1-alpha.0":
   "integrity" "sha512-PP22TVV2VyELXhAX4PcBisasssastSEx23XDklfPoCPIXD2QgGC7y39n/b5I9tOzKi2qYswCEAcDpwXYwevGOg=="
   "resolved" "https://registry.npmjs.org/@react-native-community/cli/-/cli-5.0.1-alpha.2.tgz"
   "version" "5.0.1-alpha.2"
