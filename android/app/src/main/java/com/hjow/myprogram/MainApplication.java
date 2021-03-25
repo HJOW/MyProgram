@@ -1,4 +1,4 @@
-package com.myprogram;
+package com.hjow.myprogram;
 
 import android.app.Application;
 import android.content.Context;
